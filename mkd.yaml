@@ -1,0 +1,7 @@
+version: '1'
+debug: false
+
+timeout: 360s
+
+commands:
+  - sleep 360 && echo long done
